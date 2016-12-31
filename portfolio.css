@@ -5,12 +5,20 @@
   background-color: transparent !important;
 }
 
+html{
+	height: 100%;
+}
+
 body {
   padding-top: 50px;
 }
 
+.container-fluid{
+	padding-left: 0;
+	padding-right: 0;
+}
+
 .about {
-  height: auto;
   background-image: url("http://i88.photobucket.com/albums/k199/flanners_bucket/Codepen/graphic-paper-background.jpg");
   background-position: center center;
   background-size: cover;
@@ -24,7 +32,6 @@ body {
  }
 
 .portfolio {
-  height: auto;
   background-image: url("http://i88.photobucket.com/albums/k199/flanners_bucket/Codepen/laptop-keyboard.jpg");
   background-repeat: no-repeat;
   background-position: center center;
@@ -93,7 +100,7 @@ body {
 		
 .about {
   position: relative;
-  top: 75px;
+  margin-top: 50px;
   height: auto;
   background: linear-gradient(#648880, #293f50);
   padding: 5px;
