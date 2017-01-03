@@ -1,2 +1,2 @@
 # FCC-Portfolio
-Poertfolio project at FreeCodeCamp
+Portfolio project at FreeCodeCamp
