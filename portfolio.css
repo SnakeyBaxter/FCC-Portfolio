@@ -19,7 +19,7 @@ body {
 }
 
 .about {
-  background-image: url("http://i88.photobucket.com/albums/k199/flanners_bucket/Codepen/graphic-paper-background.jpg");
+  background-image: url("https://res.cloudinary.com/doniq1sle/image/upload/v1508276492/graphic-paper-background_wuliwd.jpg");
   background-position: center center;
   background-size: cover;
   background-attachment: fixed;
@@ -32,7 +32,7 @@ body {
  }
 
 .portfolio {
-  background-image: url("http://i88.photobucket.com/albums/k199/flanners_bucket/Codepen/laptop-keyboard.jpg");
+  background-image: url("https://res.cloudinary.com/doniq1sle/image/upload/v1508276493/laptop-keyboard_aaapnc.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -64,7 +64,7 @@ body {
 
 .contact {
   height: 725px; 
-  background-image: url("http://i88.photobucket.com/albums/k199/flanners_bucket/Codepen/nero_plaster2.jpg");
+  background-image: url("https://res.cloudinary.com/doniq1sle/image/upload/v1508276493/nero_plaster2_daxfxl.jpg");
   background-repeat: no-repeat;
   background-repeat: no-repeat;
   background-position: center center;
@@ -124,3 +124,5 @@ body {
 .contact div {
 	padding: 5px;
 }   
+
+	}
